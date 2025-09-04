@@ -1,6 +1,8 @@
-# Welcome to GitHub Desktop!
+## *Hi.* 👋🏼
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+### *My name is Marek.*
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Marek
+<p>💻| Software Engineer | Web developer</p>
+<p>🌐| Java, HTML, CSS</p>
+<p>💡| Still learning: Python, C++,</p>
+<p>🚀| My latest projects: </p>
