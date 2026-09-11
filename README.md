@@ -1,17 +1,18 @@
-## *Hi.* 👋🏼
+## Hi. 👋🏼
 
 ### *My name is Marek.*
 
-<p>💻| Software Engineer | Web developer</p>
-<p>🌐| HTML, CSS</p>
-<p>💡| Still learning: Java, C#, Python, JavaScript</p>
-<p>🚀| My latest projects: </p>
+<p>💻 | Software Engineer | Web Developer | UI/UX Designer</p>
+<p>🌐 | HTML, CSS</p>
+<p>💡 | Currently learning: Java, C#, Python, JavaScript</p>
+<p>🚀 | My latest projects: </p>
 
-I am a passionate and creative software engineer known for crafting visually stunning and user-friendly websites. With a keen eye for design and a deep understanding of modern web development, I transform ideas into beautifully functional digital experiences.
+*I am a passionate and creative **software engineer** known for crafting visually stunning and user-friendly websites.*
+*With a keen eye for design and a deep understanding of modern web development, I transform ideas into beautifully functional digital experiences.*
 
 ---
 
-## 🛠️ Technologies & Tools|
+## 🛠️ Technologies & Tools |
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -25,10 +26,10 @@ I am a passionate and creative software engineer known for crafting visually stu
 
 ### Backend
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,16 +53,16 @@ I am a passionate and creative software engineer known for crafting visually stu
 
 ---
 
-## 📈 GitHub Stats|
+## 📈 GitHub Stats |
 
 ---
 
-## 👨🏽‍💻 Projects|
+## 👨🏽‍💻 My Projects |
 
 ---
 
-## 📫 Contact|
-- Email: marekpavlus@gmail.com
+## 📫 Contact Me |
+- *Email:* marekpavlus@gmail.com
 - [LinkedIn](https://linkedin.com/in/marekpavlus)
 - [Website](https://marekpavlus.github.io/kyra./)
 
