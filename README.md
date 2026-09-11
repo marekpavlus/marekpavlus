@@ -1,10 +1,10 @@
 ## *Hi.* 👋🏼
 
-### *My name is Marek. I'm 27 years old **Software Technology Engineering** student from Slovakia living in Denmark.*
+### *My name is Marek. I'm 27 years old Software Technology Engineering student at VIA University College.*
 
 💻| Software Engineer | Web Developer | UI/UX Designer
-🌐| 
-💡| Currently learning: Java, C#, Python, JavaScript
+🌐| Frontend / Backend Developer
+💡| Currently learning: Full-Stack Development, Cloud Development
 🚀| My latest projects:
 
 I am a passionate and creative **software engineer** known for crafting visually stunning and user-friendly websites.
