@@ -1,11 +1,11 @@
 ## *Hi.* 👋🏼
 
-### *My name is Marek.*
+### *My name is Marek. I'm 27 years old **Software Technology Engineering** student from Slovakia living in Denmark.*
 
-<p>💻| Software Engineer | Web Developer | UI/UX Designer</p>
-<p>🌐| HTML, CSS</p>
-<p>💡| Currently learning: Java, C#, Python, JavaScript</p>
-<p>🚀| My latest projects: </p>
+💻| Software Engineer | Web Developer | UI/UX Designer
+🌐| 
+💡| Currently learning: Java, C#, Python, JavaScript
+🚀| My latest projects:
 
 I am a passionate and creative **software engineer** known for crafting visually stunning and user-friendly websites.
 With a keen eye for design and a deep understanding of modern web development, I transform ideas into beautifully functional digital experiences.
@@ -53,15 +53,15 @@ With a keen eye for design and a deep understanding of modern web development, I
 
 ---
 
-## 📈 GitHub Stats |
+## 📈 GitHub Stats
 
 ---
 
-## 👨🏽‍💻 My Projects |
+## 👨🏽‍💻 My Projects
 
 ---
 
-## 📫 Contact Me |
+## 📫 Contact Me
 - Email: marekpavlus@gmail.com
 - [LinkedIn](https://linkedin.com/in/marekpavlus)
 - [Website](https://marekpavlus.github.io/kyra./)
