@@ -2,10 +2,10 @@
 
 ### *My name is Marek. I'm 27 years old Software Technology Engineering student at VIA University College.*
 
-💻| Software Engineer | Web Developer | UI/UX Designer
-🌐| Frontend / Backend Developer
-💡| Currently learning: Full-Stack Development, Cloud Development
-🚀| My latest projects:
+<p>💻| Software Engineer | Web Developer | UI/UX Designer</p>
+<p>🌐| Frontend / Backend Developer</p>
+<p>💡| Currently learning: Full-Stack Development, Cloud Development</p>
+<p>🚀| My latest projects: </p>
 
 I am a passionate and creative **software engineer** known for crafting visually stunning and user-friendly websites.
 With a keen eye for design and a deep understanding of modern web development, I transform ideas into beautifully functional digital experiences.
