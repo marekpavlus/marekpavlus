@@ -1,6 +1,6 @@
 ## *Hi.* 👋🏼
 
-### *My name is Marek. I'm 27 years old Software Technology Engineering student at VIA University College.*
+### *My name is Marek.*
 
 <p>💻| Software Engineer | Web Developer | UI/UX Designer</p>
 <p>🌐| Frontend / Backend Developer</p>
